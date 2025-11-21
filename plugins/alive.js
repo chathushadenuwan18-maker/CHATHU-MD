@@ -7,7 +7,7 @@ cmd({
     category: "main",
     filename: __filename
 },
-async (danuwa, mek, m, {
+async (CHAATHU-MD, mek, m, {
     from, quoted, body, isCmd, command, args, q, isGroup,
     sender, senderNumber, botNumber2, botNumber, pushname,
     isMe, isOwner, groupMetadata, groupName, participants,
